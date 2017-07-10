@@ -1,7 +1,6 @@
 
 ### bulma-css
-Live:https://github.com/Slayer1986/bulma-css
-
+Live:https://slayer1986.github.io/bulma-css/
 
 ### CDN:
 
